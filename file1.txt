@@ -1,2 +1,4 @@
 My new file
 
+New line.
+
