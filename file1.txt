@@ -2,3 +2,4 @@ My new file
 
 New line.
 
+New line in a branch.
