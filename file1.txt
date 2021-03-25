@@ -2,4 +2,8 @@ My new file
 
 New line.
 
+
 New line from master.
+
+New line in a branch.
+
